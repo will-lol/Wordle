@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "forsale.will.wordle.twa",
+    "sha256_cert_fingerprints": [
+      "35:88:81:67:08:14:E0:EB:3B:B8:BA:60:39:75:C7:A7:9C:D8:DB:A3:32:07:9D:FE:C7:42:8D:33:DD:B0:20:36"
+    ]
+  }
+}]
